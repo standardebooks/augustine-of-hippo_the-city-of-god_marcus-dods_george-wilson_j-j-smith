@@ -22,13 +22,6 @@ abbr[epub|type~="se:era"]{
 [epub|type~="bridgehead"] i{
 	font-style: normal;
 }
-
-[epub|type~="z3998:hymn"] [epub|type~="bridgehead"],
-[epub|type~="z3998:poem"] [epub|type~="bridgehead"],
-[epub|type~="z3998:song"] [epub|type~="bridgehead"],
-[epub|type~="z3998:verse"] [epub|type~="bridgehead"]{
-	text-align: justify;
-}
 /* End bridgehead formatting */
 
 /* Begin poetry formatting */
