@@ -35,9 +35,6 @@
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<meta property="dcterms:alternative" refines="#title">De civitate Dei</meta>
 		<meta property="dcterms:alternative" refines="#title">De civitate Dei contra paganos</meta>
-		<dc:title id="title-short">City of God</dc:title>
-		<meta property="file-as" refines="#title-short">City of God</meta>
-		<meta property="title-type" refines="#title-short">short</meta>
 		<dc:subject id="subject-1">Apologetics -- Early works to 1800</dc:subject>
 		<dc:subject id="subject-2">Kingdom of God -- Early works to 1800</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
