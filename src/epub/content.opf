@@ -64,7 +64,7 @@
 		<meta property="schema:wordCount">444136</meta>
 		<meta property="schema:educationalLevel">54.8</meta>
 		<link href="https://en.wikipedia.org/wiki/The_City_of_God" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/augustine-of-hippo_the-city-of-god_marcus-dods_george-wilson_j-j-smith" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Augustine of Hippo</dc:creator>
