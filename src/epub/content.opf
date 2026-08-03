@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/augustine-of-hippo/the-city-of-god/marcus-dods_george-wilson_j-j-smith</dc:identifier>
 		<dc:date>2026-01-03T20:46:11Z</dc:date>
@@ -47,13 +47,13 @@
 		<meta property="schema:genre">Spirituality</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Bishop Augustine of Hippo provides a defense of the Christian faith against its pagan critics, as well as explaining God’s work and purposes in world history, from beginning to end.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In 410 CE, Rome was sacked by the Visigoths, leaving the inhabitants of the Roman Empire in a state of deep shock. Some Romans began theorizing that the calamity occurred because many in the empire had chosen to become Christian rather than participate in traditional Roman religion. In response, over the course of thirteen years the Christian bishop &lt;a href="https://standardebooks.org/ebooks/augustine-of-hippo"&gt;Augustine of Hippo&lt;/a&gt; wrote &lt;i&gt;The City of God&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;In the first part, comprising the first ten books, Augustine critiques pagan religion and philosophy. Utilizing sources from well-respected Roman historians and philosophers, he works to show that the Roman gods didn’t save Rome from previous calamities or moral decay, and that worshiping the Roman gods can’t bring temporal or eternal happiness. He also responds to critiques of Christianity from pagan philosophers, working to dismantle their objections to Christian philosophy, while also affirming much that he finds true, especially in Platonism.&lt;/p&gt;
 			&lt;p&gt;In the second part, Augustine traces the origin and final destiny of the world, framing this history as the founding, progress, and end of two “cities”: the City of God (ruled by God), and the Earthly City (ruled by the devil). He explores the creation of the world, addresses the origin of evil, sin, and death, and then looks at the parallel histories of both cities, utilizing both Biblical and secular histories. Then he addresses the final judgment, making the case for why the inhabitants of the Earthly City are ultimately pursuing eternal misery, when pursuing God would bring eternal happiness.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The City of God&lt;/i&gt; is a wide-ranging book of history, apologetics, and political and moral philosophy. It also covers many important topics in theology, such as the problem of evil, and issues regarding free will, and divine omniscience and omnipotence. It’s one of the most influential books in Western history, and continues to have an impact to the present day.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/45304</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/45305</dc:source>
