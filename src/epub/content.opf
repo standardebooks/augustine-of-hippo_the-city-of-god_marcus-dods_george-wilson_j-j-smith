@@ -93,7 +93,7 @@
 		<link href="https://en.wikipedia.org/wiki/Jan_van_Eyck" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50048855.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Douglas L. Alley, III</dc:contributor>
+		<dc:contributor id="transcriber-1">Douglas L. Alley III</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Alley, III, Douglas L.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Charlene Taylor</dc:contributor>
